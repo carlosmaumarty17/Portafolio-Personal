@@ -22,7 +22,9 @@ además de eso en la  búsqueda de nuevas oportunidades laborales 🙏👨‍�
 
 ## Lenguajes de programación:
 ● Java
+
 ● Python 
+
 ● C
 ● C++
 ● C#
