@@ -1,4 +1,6 @@
-## PORTAFOLIO PERSONAL DESARROLLADOR FREELANCE  https://www.linkedin.com/in/carlos-mauricio-martinez-perez-28b769123/
+## PORTAFOLIO PERSONAL DESARROLLADOR FREELANCE  
+
+## https://www.linkedin.com/in/carlos-mauricio-martinez-perez-28b769123/
 
 Ingeniero de sistemas con conocimientos y experiencia en aplicaciones web, diseño y programación de sitios web, 
 con habilidades para liderar proyectos de desarrollos e innovaciones tecnológicas para mejorar la competitividad y la calidad de vida cotidiana.
