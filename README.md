@@ -8,6 +8,7 @@ con habilidades para liderar proyectos de desarrollos e innovaciones tecnológic
 ## Un poco acerca de mi perfil profesional 
 
 ●PERFIL PROFESIONAL●
+
 Ingeniero de sistemas con conocimientos y experiencia en aplicaciones web, diseño y 
 programación de sitios web, con habilidades para liderar proyectos de desarrollos e 
 innovaciones tecnológicas para mejorar la competitividad y la calidad de vida cotidiana.
