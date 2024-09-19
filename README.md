@@ -85,3 +85,6 @@ Y mucho más 👨🏻‍💻🤝😃😎💪🏻🦾👌🏻
 
 -- Actualmente me encuentro en el análisis y aprendizaje con modelos de algoritmos de inteligencia artificial con python, no es nada fácil pero poco a poco se va aprendiendo 👨🏻‍💻💪🏻🦾👌🏻😎📊👨‍🏫⚡Comparte esta publicación para que me ayudes...🙏✌️🤙👨‍💻😎
 
+<img width="439" alt="foto-inicio" src="https://github.com/user-attachments/assets/1ae71210-02a7-455d-b728-a95d16f0a51d">
+
+
